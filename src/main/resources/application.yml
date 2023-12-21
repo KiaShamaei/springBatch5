@@ -17,3 +17,5 @@ spring:
         enabled: false
 file:
   input: test.csv
+server:
+  port: 8081
